@@ -1,18 +1,21 @@
-.print{
+.bg 
+{
+	background-color: #93d4f5;
+	width: 40%;
+	margin-left: 80px;
+	padding-left: 65px;
+	padding-bottom: 35px;
+	margin-top: 65px;
+};
+
+
+.text{
 	width: 24%;
-}  
+	margin-block-end:20px; 
+};  
 
 .btn
 {
 	margin: 6px;
 	width: 100px;
 };
-
-.bg {
-    background-color: #93d4f5;
-    width: 75%;
-    margin-left: 80px;
-    padding-left: 65px;
-    padding-bottom: 35px;
-	margin-top: 65px;
-}
